@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710636844 source:e:\code brou\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
